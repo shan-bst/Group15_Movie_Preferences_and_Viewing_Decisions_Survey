@@ -6,7 +6,7 @@ Runtime: Short, Long
 Friends: With, Without Current 
 Mood: Happy, Tired, Sad
 # 1. Clone the Project
-git clone https://github.com/shan-bst/Movie-Decision-Predictor.git
+< git clone https://github.com/shan-bst/Movie-Decision-Predictor.git />
 # 2. Install Requirements
 Install the necessary libraries (pandas and streamlit) using the requirements file:
 pip install -r requirements.txt
@@ -23,4 +23,8 @@ python -m streamlit run app.py
 <img width="1536" height="754" alt="3" src="Screenshot%202026-03-16%20123901.png" />
 <img width="1536" height="754" alt="4" src="Screenshot%202026-03-16%20124147.png" />
 
+# Conclusion
+Conclusion:	In this activity, we analyzed how different factors such as movie genre, runtime, watching with/without a friends, and mood can influence a person’s decision to watch a movie. By collecting survey data and organizing it into a dataset, we were able to observe patterns that affect movie-watching behavior. This analysis helps demonstrate how data can be used to predict decisions based on specific conditions. Overall, the activity shows the importance of using data and attributes to understand preferences and make predictions.
+
+# GROUP 15 (Navarra, Orbillo, Besto)
 
