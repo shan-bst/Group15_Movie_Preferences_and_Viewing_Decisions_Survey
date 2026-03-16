@@ -1,4 +1,4 @@
-# Movie Viewing Predictor (Naive Bayes) 
+# Movie Preferences and Viewing Decisions Survey
 This project is a Streamlit web application that uses a Naive Bayes Classifier to predict whether a person will watch a movie. The model is built using real survey data and calculates probabilities based on four key conditions. 
 The prediction is based on these specific attributes from the survey: 
 Genre: Drama, Horror, Action 
