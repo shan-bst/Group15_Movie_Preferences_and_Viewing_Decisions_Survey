@@ -19,6 +19,9 @@ python -m streamlit run app.py
 # Data Set Table
 <img width="1536" height="754" alt="2" src="Screenshot%202026-03-16%20123840.png" />
 
+# Histogram
+<img width="1536" height="754" alt="6" src="histogram.png" />
+
 # Prediction Results & Math Breakdown
 <img width="1536" height="754" alt="3" src="Screenshot%202026-03-16%20123901.png" />
 <img width="1536" height="754" alt="4" src="Screenshot%202026-03-16%20124147.png" />
